@@ -1,4 +1,4 @@
-<h1>Привет, я  <a href="https://github.com/oksivasilinka/github-readme-stats" >Oksana</a></h1>
+<h1>Hi there, I'm <a href="https://github.com/oksivasilinka/github-readme-stats" >Oksana</a></h1>
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend+developer" alt="Typing">
 
 <div>
