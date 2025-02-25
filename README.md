@@ -2,12 +2,6 @@
 <h1>I'm <a href="https://oksivasilinka.github.io/portfolio/">Oksana</a></h1>
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend+developer" alt="Typing">
 
-- 🔭 I’m currently working on **TradeReview**
-
-- 🌱 I’m currently learning **Next.js**
-
-- 👨‍💻 Some of my projects are available at **[Portfolio](https://oksivasilinka.github.io/portfolio/)**
-
 
 <h3 align="left">Languages and Tools:</h3>
 <br/>
