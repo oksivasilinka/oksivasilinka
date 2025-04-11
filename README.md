@@ -28,9 +28,6 @@
  	<a href="https://ionicframework.com" target="_blank" rel="noreferrer">
 		<img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/>
 	</a> 
- 	<a href="https://postman.com" target="_blank" rel="noreferrer"> 
-		<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-	</a> 
 	<a href="https://sass-lang.com" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
 	</a> 
@@ -49,13 +46,6 @@
 <div>
 	<a href="https://github.com/oksivasilinka/github-readme-stats">
 		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oksivasilinka&layout=compact" alt="Top Languages">
-	</a>
-</div>
-<br/>
-
-<div>
-  	<a href="https://git.io/streak-stats">
-  		<img src="https://streak-stats.demolab.com?user=oksivasilinka&theme=neon&border_radius=8" alt="GitHub Streak">
 	</a>
 </div>
 <br/>
